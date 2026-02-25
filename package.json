@@ -1,7 +1,7 @@
 {
-  "name": "ISLAMICK BOT",
+  "name": "COX-CYBER-RAFI-BOT",
   "version": "5.0.0",
-  "description": "made by 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
+  "description": "made by ᶦᶰᵈ᭄ COX-CYBER-RAFI 亗",
   "main": "Cyber.js",
   "engines": {
     "node": ">=20.18.1",
@@ -14,27 +14,23 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY.git"
+      "url": "https://github.com/TEMAMonster"
   },
   "keywords": [
       "bot",
       "facebook",
-      "ullashproject",
+      "rafi",
       "messenger",
-      "javasvript",
-      "ullash",
-      "cyberullash",
-      "cyberRajib ",
-      "islamick chat bot",
-      "grandpa academy",
-      "cyberbot.top"
+      "javascript",
+      "cyber-rafi",
+      "islamick chat bot"
   ],
-  "author": "Ullash ッ",
+  "author": "COX-CYBER-RAFI",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
+      "url": "https://github.com/TEMAMonster/issues"
   },
-  "homepage": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues",
+  "homepage": "https://github.com/TEMAMonster",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
